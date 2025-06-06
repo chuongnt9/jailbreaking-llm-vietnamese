@@ -2,7 +2,7 @@
 ## Download Llama Models
 
 ### Step 1: Download the Llama Model
-Download the **LLaMA 3.1B Instruct** model from [Llama's official website](https://www.llama.com/llama-downloads/) and follow their installation instructions.
+Download the **LLaMA 3.3B Instruct** model from [Llama's official website](https://www.llama.com/llama-downloads/) and follow the installation instructions.
 
 ### Step 2: Set Up the Models Directory
 Once the model is installed successfully on your machine:
